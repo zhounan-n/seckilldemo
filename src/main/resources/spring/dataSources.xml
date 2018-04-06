@@ -49,6 +49,7 @@
                 <value>classpath:mybatis/mapper/*</value>
             </array>
         </property>
+        <!--扫描使用别名-->
         <property name="typeAliasesPackage" value="com.zn.seckill.entities"/>
     </bean>
 
